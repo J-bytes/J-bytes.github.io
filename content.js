@@ -16,7 +16,7 @@ window.CONTENT = {
       bullets: [
         "Building a product query understanding system: fine-tuned models for few-shot domain adaptation that parse search queries into structured output via joint NER and intent classification.",
         "Led vector retrieval with two-tower embeddings, improving relevance and personalization on sparse and long-tail queries beyond lexical search.",
-        "Reduced training cost and online serving memory of deep recommendation models while keeping quality guardrails; improved generalization across heterogeneous clients.",
+        "Reduced training cost and online serving memory of recommendations while keeping quality guardrails; improved generalization across heterogeneous clients.",
         "Built a standardized offline evaluation framework (splits, baselines, automated metrics reports) for reliable model comparison."
       ]
     },
